@@ -2,7 +2,7 @@
 	"app-id": "com.fceux.FCEUX",
 	"runtime": "org.kde.Platform",
 	"sdk": "org.kde.Sdk",
-	"runtime-version": "5.15",
+	"runtime-version": "5.15-25.08",
 	"command": "fceux",
 	"rename-desktop-file": "fceux.desktop",
 	"finish-args": [
